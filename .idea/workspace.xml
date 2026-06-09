@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e5cb867-38db-4ade-821d-dbf80133eea9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tsouzz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tsouzz/terminal-bank-system.git&quot;,
+    &quot;accountId&quot;: &quot;fb11c65e-0c31-4bbd-aa03-2aa60c87f362&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EC9FTbWezoPFaloSAfPa2WNgvm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Estudos/JavaFX LPG1/bank-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Estudos\JavaFX LPG1\terminal-bank-system" />
+      <recent name="D:\Estudos\JavaFX LPG1\terminal-bank-system\src\main\java\org\ifsp\terminal_bank_system" />
+      <recent name="D:\Estudos\JavaFX LPG1\terminal-bank-system\src\main\java\org\ifsp\terminal_bank_system\exception" />
+      <recent name="D:\Estudos\JavaFX LPG1\terminal-bank-system\src\main\java\org\ifsp\terminal_bank_system\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="bank-system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="bank-system" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e5cb867-38db-4ade-821d-dbf80133eea9" name="Changes" comment="" />
+      <created>1779671583029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779671583029</updated>
+      <workItem from="1779671585988" duration="185000" />
+      <workItem from="1779748305080" duration="505000" />
+      <workItem from="1779844133790" duration="331000" />
+      <workItem from="1779844516462" duration="219000" />
+      <workItem from="1779883503685" duration="598000" />
+      <workItem from="1779884109857" duration="542000" />
+      <workItem from="1780105096904" duration="9000" />
+      <workItem from="1780187701155" duration="678000" />
+      <workItem from="1780190339732" duration="178000" />
+      <workItem from="1780278888504" duration="1169000" />
+      <workItem from="1780358569829" duration="1494000" />
+      <workItem from="1780445702062" duration="1466000" />
+      <workItem from="1780511485182" duration="7646000" />
+      <workItem from="1780587074874" duration="19262000" />
+      <workItem from="1780627425336" duration="1262000" />
+      <workItem from="1780672742772" duration="3916000" />
+      <workItem from="1780700852019" duration="6380000" />
+      <workItem from="1780779689404" duration="3324000" />
+      <workItem from="1780838602434" duration="8940000" />
+      <workItem from="1780932653224" duration="564000" />
+      <workItem from="1780958343163" duration="2915000" />
+      <workItem from="1781014307558" duration="9834000" />
+      <workItem from="1781028568134" duration="1210000" />
+      <workItem from="1781040567896" duration="1871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
