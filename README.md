@@ -1,6 +1,6 @@
 # Terminal Bank System
 
-Sistema bancário executado no terminal, desenvolvido em Java como trabalho de recuperação da disciplina de Linguagem de Programação 1 do curso de Bacharelado em Sistemas de Informação do IFSP.
+Sistema bancário executado no terminal, desenvolvido em Java como trabalho da disciplina de Linguagem de Programação 1 do curso de Bacharelado em Sistemas de Informação do IFSP.
 
 ## Funcionalidades
 
